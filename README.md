@@ -1,6 +1,6 @@
 # Boy bands and vegetables
 
-### This is for Nashville Software SChool - this is a practice exercise and an introduction to Javascript
+### This is for Nashville Software School - this is a practice exercise and an introduction to Javascript
 
 ## Requirements
 
